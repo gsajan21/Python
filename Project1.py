@@ -73,6 +73,6 @@ while ans != 'x':
     # else:
     #     print("Invalid!")
 
-iv.displayItem("1")
+# iv.displayItem()
 
         
